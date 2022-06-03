@@ -1,0 +1,18 @@
+#table-container {
+    text-align: center;
+}
+#table-el {
+    margin: 8% auto;
+}
+#thead-el {
+    font-size: 2em;
+}
+
+
+#th-title, #th-year, #th-main {
+    padding: 2% 4em;
+}
+
+#table-el td {
+    padding: 1% 4em;
+}
